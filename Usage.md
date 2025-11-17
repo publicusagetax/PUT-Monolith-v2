@@ -7,7 +7,10 @@ Copy the contents of `MONOLITH_v2.txt` into:
 - A system prompt  
 - A custom GPT / Claude project  
 - A Grok persona or configuration file  
-- Any local model’s system context  
+- Any local model’s system context
+
+- type "initialize PUT OS" to have the ai ingest
+- type "run Adversarial Auditor" to have the ai critique independently of the framework
 
 ## Use Cases
 - Stabilizing complex reasoning about taxation or incentives  
