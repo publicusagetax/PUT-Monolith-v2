@@ -3,13 +3,14 @@
 The Monolith is designed to be portable and ingestible by any modern LLM.
 
 ## Basic Usage
-Copy the contents of `MONOLITH_v2.txt` into:
-- A system prompt  
-- A custom GPT / Claude project  
-- A Grok persona or configuration file  
-- Any local model’s system context
-(due to the architecture, copilot does not function correctly with this file)
-- type "initialize PUT OS" to have the ai ingest
+These models can load and follow the Monolith reliably when provided
+as a system / context file:
+
+- **ChatGPT (GPT-5, GPT-4.1, GPT-4o)**
+- **Claude 3.5 (Opus, Sonnet)*
+
+- Copy the file then type "initialize PUT OS" at the prompt. The ai will use the defined framework to answer any questions related to the PUT system.
+- 
 - type "run Adversarial Auditor" to have the ai critique independently of the framework
 
 ## Use Cases
