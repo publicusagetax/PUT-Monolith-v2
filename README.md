@@ -3,7 +3,6 @@
 
 PUT-Monolith-v2 is the machine-readable specification of the Public Usage Tax (PUT) — a complete alternative to income, payroll, and corporate taxation.
 This compact file encodes the entire fiscal architecture: tiers, footprint logic, stabilization funds, invariants, guardrails, and dynamic recalibration rules. The Monolith allows any AI model to reason consistently about PUT as a full-stack national tax system.
-This file is a compact, self-contained architectural specification for the Public Usage Tax (PUT) system.
 
 The Monolith is designed to be:
 - **AI-ingestible**
