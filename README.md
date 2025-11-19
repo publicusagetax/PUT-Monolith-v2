@@ -91,3 +91,20 @@ Please:
 
 Created by Avery Cole (pen name).  
 Released as a public-good artifact for researchers, developers, and open-source communities.
+
+## 📘 Public Usage Tax Documentation
+
+This repository contains the full reference architecture for the **Public Usage Tax (PUT)**, including:
+
+### 🔹 Machine-Readable Architecture
+- **PUT Monolith (v2)** — the complete AI-ingestible specification governing invariants, tier logic, footprint rules, and system behavior.
+
+### 🔹 Human-Readable White Papers
+- **White Paper I — Collection Architecture**  
+  Focuses on the structural mechanics of PUT’s contribution system, footprint-based taxation, PUV routing, and tier integrity.
+
+Upcoming additions:
+- **White Paper II — Allocation & Agency Performance**  
+- **White Paper III — Stabilization & Debt Architecture**
+
+Together, these documents form a complete fiscal operating system for a world where labor, capital, and automation coexist.
